@@ -1,4 +1,5 @@
 # UUID                                                                             	Group Name
 #
 42f0c83244389e408b42fa668348002012ecba46                                           	GitHub Replication
+afafc9248df6b21804e138ad91f25cf4ad3f24e0                                           	saml/acumos-gerrit-modeling-toolkit-committers
 ldap:cn=acumos-gerrit-modeling-toolkit-committers,ou=Groups,dc=freestandards,dc=org	ldap/acumos-gerrit-modeling-toolkit-committers
